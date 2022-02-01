@@ -1,0 +1,16 @@
+{
+  "title": "Práctica Introducción a VueJS",
+  "name": "practica_vuejs_intro",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "nightwatch --env default"
+  },
+  "description": "Práctica de Introducción a VueJS del módulo de Diseño de Interfaces Web.",
+  "license": "GPL-3.0",
+  "author": "Pedro Prieto",
+  "devDependencies": {
+    "chromedriver": "^96.0.0",
+    "nightwatch": "^1.7.13",
+    "serve-handler": "^6.1.3"
+  }
+}
